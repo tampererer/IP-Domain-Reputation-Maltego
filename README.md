@@ -2,7 +2,6 @@
 Maltego Local Transforms to use McAfee domain reputation - https://www.mcafee.com/threat-intelligence/domain/
 
 # Prerequisites
-- VirusTotal Private API access
 - Python 2.7.x + requests, re module
 
 # Setup
