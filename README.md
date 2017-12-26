@@ -1,6 +1,10 @@
 # [McAfee] Maltego Local Transforms
 Maltego Local Transforms to use McAfee domain reputation - https://www.mcafee.com/threat-intelligence/domain/
 
+# Prerequisites
+- VirusTotal Private API access
+- Python 2.7.x + requests, re module
+
 # Setup
 - Put domain_to_risk.py and MaltegoTransform.py into your working directory. (e.g. C:\Maltego\Transforms\McAfee)
 - Open McAfee.mtz to import Maltego configuration.
