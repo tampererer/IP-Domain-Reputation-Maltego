@@ -1,4 +1,4 @@
-# [McAfee] Maltego Local Transforms
+# [IP-Domain-Reputation] Maltego Local Transforms
 Maltego Local Transforms to use McAfee domain reputation - https://www.mcafee.com/threat-intelligence/domain/
 
 # Prerequisites
@@ -12,8 +12,12 @@ Maltego Local Transforms to use McAfee domain reputation - https://www.mcafee.co
   Working directory = C:\Maltego\Transforms\Reputation
 
 # Transforms
+McAfee
 - domain_risk
 - ip_risk
 
+URLVoid
+- domain_blacklisted
 
-
+IPVoid
+- ip_blacklisted
