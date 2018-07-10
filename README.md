@@ -18,9 +18,11 @@ IPVoid - http://www.ipvoid.com/
 # Transforms
 McAfee
 - domain_risk
-![mcafee](https://user-images.githubusercontent.com/16297449/42500692-ee23130a-846c-11e8-8722-9afc98018818.png)
+![mcafee-domain](https://user-images.githubusercontent.com/16297449/42500692-ee23130a-846c-11e8-8722-9afc98018818.png)
 
 - ip_risk
+![mcafee-ip](https://user-images.githubusercontent.com/16297449/42501032-c7ebbccc-846d-11e8-9f17-f700d7953bac.png)
+
 
 URLVoid
 - domain_blacklisted
