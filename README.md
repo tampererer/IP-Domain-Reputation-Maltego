@@ -13,7 +13,7 @@ Maltego Local Transforms to use the following services.
 - Python 3.6.x でもたぶん動作します。
 
 # Setup
-- Put mcafee.py, ipvoid.py, urlvoid.py and MaltegoTransform.py into your working directory. (e.g. C:\Maltego\Transforms\Reputation)
+- Put all python files into your working directory. (e.g. C:\Maltego\Transforms\Reputation)
 - Open Reputation.mtz to import Maltego configuration.
 - The current configuration uses the following directories, so you may have to change them according to your environment. (Maltego -> Transforms -> Transform Manager)  
 
