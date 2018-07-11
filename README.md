@@ -20,6 +20,14 @@ Maltego Local Transforms to use the following services.
   Command line = C:\Python27\python.exe  
   Working directory = C:\Maltego\Transforms\Reputation
 
+# セットアップ
+- mcafee.py と ipvoid.py と urlvoid.py と MaltegoTransform.py を、このTransform用に作ったディレクトリに置いてください。（例： C:\Maltego\Transforms\Reputation）
+- Reputation.mtz を開いて、Maltegoの設定をインポートしてください。
+- mtzファイルに含まれる設定では、下記のディレクトリが指定されていますが、自分の環境に合わせて変更してください。（Maltego -> Transforms -> Transform Manager）
+
+  Command line = C:\Python27\python.exe  
+  Working directory = C:\Maltego\Transforms\Reputation
+
 # Transforms
 - [McAfee] domain_risk
 ![mcafee-domain](https://user-images.githubusercontent.com/16297449/42500692-ee23130a-846c-11e8-8722-9afc98018818.png)
