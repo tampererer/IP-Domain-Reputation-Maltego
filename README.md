@@ -1,6 +1,6 @@
 # [IP-Domain-Reputation] Maltego Local Transforms
 Maltego Local Transforms to use the following services.  
-- McAfee Threat Library - https://www.mcafee.com/content/enterprise/en-us/threat-center.html  
+- McAfee Threat Library - https://www.mcafee.com/enterprise/ja-jp/search/threat.html
 - URLVoid - http://www.urlvoid.com/  
 - IPVoid - http://www.ipvoid.com/  
 
